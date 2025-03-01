@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/julie/OneDrive/Documents/GitHub/Walbert-World-Invasion/Content/RadProgBar/M_CircleBar.uasset",
+				"C:/Users/julie/OneDrive/Documents/GitHub/Walbert-World-Invasion/Content/RadProgBar/M_CircleBar_Inst.uasset",
+				"C:/Users/julie/OneDrive/Documents/GitHub/Walbert-World-Invasion/Content/RadProgBar/WBP_RadProgBar.uasset",
+				"C:/Users/julie/OneDrive/Documents/GitHub/Walbert-World-Invasion/Content/RadProgBar/WBP_HPBar.uasset",
+				"C:/Users/julie/OneDrive/Documents/GitHub/Walbert-World-Invasion/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/julie/OneDrive - Groupe E.D.H/Documents/GitHub/Walbert-World-Invasion/WalbertWorldInvasion/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
