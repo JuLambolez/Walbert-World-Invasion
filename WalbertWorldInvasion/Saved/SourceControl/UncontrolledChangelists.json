@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/maelc/OneDrive/Documents/GitHub/Walbert-World-Invasion/WalbertWorldInvasion/Content/Game/Map/Map01.umap",
+				"C:/Users/maelc/OneDrive/Documents/GitHub/Walbert-World-Invasion/WalbertWorldInvasion/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/maelc/OneDrive/Documents/GitHub/Walbert-World-Invasion/WalbertWorldInvasion/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
 				"C:/Users/mael.compin/Documents/GitHub/WalbertWorldInvasion/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/mael.compin/Documents/GitHub/WalbertWorldInvasion/Content/Game/Map/Map01.umap",
 				"C:/Users/mael.compin/Documents/GitHub/WalbertWorldInvasion/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
