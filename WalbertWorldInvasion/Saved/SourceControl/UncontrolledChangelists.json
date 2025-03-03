@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/mael.compin/Documents/GitHub/WalbertWorldInvasion/Content/Game/Map/Map01.umap"
+				"C:/Users/julie.manceau/Documents/GitHub/Walbert-World-Invasion/WalbertWorldInvasion/Content/Game/Blueprints/Weapons/BP_Weapon2_RailGun.uasset",
+				"C:/Users/julie.manceau/Documents/GitHub/Walbert-World-Invasion/WalbertWorldInvasion/Content/Game/Blueprints/Weapons/BP_BigLaser.uasset",
+				"C:/Users/julie.manceau/Documents/GitHub/Walbert-World-Invasion/WalbertWorldInvasion/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/julie.manceau/Documents/GitHub/Walbert-World-Invasion/WalbertWorldInvasion/Content/Game/Blueprints/Weapons/BP_Weapon1_MiniGun.uasset"
 			]
 		}
 	]
