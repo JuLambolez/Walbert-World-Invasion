@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/julie/Documents/GitHub/Walbert-World-Invasion/WalbertWorldInvasion/Content/Game/Blueprints/Ennemies/BP_Enemy.uasset",
+				"C:/Users/julie/Documents/GitHub/Walbert-World-Invasion/WalbertWorldInvasion/Content/Game/Blueprints/Ennemies/Arme/BP_BulletEnemy.uasset",
+				"C:/Users/julie/Documents/GitHub/Walbert-World-Invasion/WalbertWorldInvasion/Content/Game/Blueprints/Weapons/BP_Bullet.uasset",
 				"C:/Users/julie/OneDrive - Groupe E.D.H/Documents/GitHub/Walbert-World-Invasion/Walbert-World-Invasion/WalbertWorldInvasion/Content/Game/Blueprints/Ennemies/BP_Enemy.uasset",
 				"C:/Users/julie/OneDrive - Groupe E.D.H/Documents/GitHub/Walbert-World-Invasion/Walbert-World-Invasion/WalbertWorldInvasion/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6I/CR5OUHVSW07QJ7R9B7GGRQ.uasset",
 				"C:/Users/julie/OneDrive - Groupe E.D.H/Documents/GitHub/Walbert-World-Invasion/Walbert-World-Invasion/WalbertWorldInvasion/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
